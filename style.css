@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 48px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+}
+.mision{
+    display: flex;
+    margin: 70px;
+}
+.img1 img{
+    height: 300px;
+    width: 450px;
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.mision button{
+    height: 30px;
+    width: 90px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.choose{
+    display: flex;
+    margin: 70px;
+}
+.img2 img{
+    height: 300px;
+    width: 450px;
+}
+.text2{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.choose button{
+    height: 30px;
+    width: 90px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.our{
+    display: flex;
+    margin: 70px;
+}
+.img3 img{
+    height: 300px;
+    width: 450px;
+}
+.text3{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.our button{
+    height: 30px;
+    width: 90px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 135px;
+    padding-top: 28px;
+}
